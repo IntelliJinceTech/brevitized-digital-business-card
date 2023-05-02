@@ -10,7 +10,7 @@ export default function Info() {
                 <h4><a href="https://cjin.netlify.app/">cjin.netlify.app</a></h4>
             </div>
             <div className="info--buttons-container">
-                <a hfef="mailto:chrisjin1@gmail.com" className="info--button email"><img src="./images/Mail.png" />Email</a>
+                <a href="mailto:chrisjin1@gmail.com" className="info--button email"><img src="./images/Mail.png" />Email</a>
                 <a href="https://www.linkedin.com/in/christopherjin3/" target="_blank" className="info--button linkedin"><img src="./images/linkedin.png" />LinkedIn</a>
             </div>  
         </main>

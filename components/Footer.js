@@ -9,12 +9,6 @@ export default function Footer() {
                 </a>
             </div>
             <div>
-                <img src="./images/FacebookIcon.png" />
-            </div>
-            <div>
-                <img src="./images/Instagram_Icon.png" />
-            </div>
-            <div>
                 <a href="https://github.com/IntelliJinceTech">
                     <img src="./images/GitHubIcon.png" />
                 </a>           

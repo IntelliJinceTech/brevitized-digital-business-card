@@ -504,7 +504,7 @@ function About() {
         _react2.default.createElement(
             "p",
             { className: "about--p" },
-            "I am a full stack software engineer with a unique skillset in product management with knowledge in the fintech space for both retail banking and capital markets. I live a continuous improvement lifestyle and I love creating products that improve peoples' lives."
+            "I am a full stack software engineer with a unique background in product management with knowledge in the fintech space for both retail banking and capital markets. I live a continuous improvement lifestyle and I love creating products that improve people's lives!"
         )
     );
 }
@@ -539,16 +539,6 @@ function Footer() {
                 { href: "https://twitter.com/theChrisJin" },
                 _react2.default.createElement("img", { src: "./images/TwitterIcon.png" })
             )
-        ),
-        _react2.default.createElement(
-            "div",
-            null,
-            _react2.default.createElement("img", { src: "./images/FacebookIcon.png" })
-        ),
-        _react2.default.createElement(
-            "div",
-            null,
-            _react2.default.createElement("img", { src: "./images/Instagram_Icon.png" })
         ),
         _react2.default.createElement(
             "div",
@@ -613,7 +603,7 @@ function Info() {
             { className: "info--buttons-container" },
             _react2.default.createElement(
                 "a",
-                { hfef: "mailto:chrisjin1@gmail.com", className: "info--button email" },
+                { href: "mailto:chrisjin1@gmail.com", className: "info--button email" },
                 _react2.default.createElement("img", { src: "./images/Mail.png" }),
                 "Email"
             ),
@@ -657,7 +647,7 @@ function Interests() {
         _react2.default.createElement(
             "p",
             { className: "interests--p" },
-            "AI | Data Analytics | Food Consumption Expert | Reader | Professional Internet Searcher | Coffee Lover | Pickeball Amateur"
+            "Tech Enthusiast | AI | Web3 | Data Analytics | Food Consumption Expert | Reader | Coffee Lover | Pickeball Amateur"
         )
     );
 }

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Brevitized Business Card
-=======
-# Digital Business Card
->>>>>>> 7a8b592 (making css DRY)
 
 Quick start:
 
