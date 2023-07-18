@@ -4,7 +4,7 @@ My Digital Business Card - Brevitized so that it's easier for others to consume 
 
 **Link to project:** [https://cjin-business-card.netlify.app/]
 
-![Chris Jin's Digital Business Card]([https://imgur.com/a/Rr4RsYv])
+![Image](https://imgur.com/a/Rr4RsYv)
 
 ## How It's Made:
 
