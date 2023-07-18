@@ -1,28 +1,27 @@
 # Brevitized Business Card
 
-Quick start:
+My Digital Business Card - Brevitized so that it's easier for others to consume in a quick 30-second pitch.
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+**Link to project:** [https://cjin-business-card.netlify.app/]
 
-## Development
+![Chris Jin's Digital Business Card]([https://imgur.com/a/Rr4RsYv])
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+## How It's Made:
 
-```
-$ yarn watch # npm run watch
-```
+**Tech used:** HTML, CSS, JavaScript, React
 
-## About Scrimba
+In this mini project, I used React and CRA as well as the CSS to make a more on-the-go version of my resume. As an engineer and product manager, I love finding ways to save time and solve problems. Especially so - for myself. As I didn't have a great way of showcasing my experience and skillset in a portable way while attending Meetups and conferences, while also not carrying a stack of business cards - I created this project in that regard.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Optimizations
+In the future, I will be moving from Create React App to Vite so that my development speed and efficiency will be faster. In terms of the content itself, that will always be an iterative process as I will hope to improve every day. 
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Lessons Learned:
 
-Happy Coding!
+Styling components with regular CSS was new to me and so this project was an exercise in itself to improve my CSS skills. The utilization of descendent selectors really helped in this project. 
+
+## Examples:
+
+**Portfolio:** https://github.com/IntelliJinceTech/cjin
+
+**Broadway Barbers:** https://broadwaybarbers.netlify.app/
+
